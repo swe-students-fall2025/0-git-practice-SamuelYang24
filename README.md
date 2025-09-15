@@ -8,3 +8,5 @@ The article does a very good job explaining latent diffusion tranformers, the la
 
 ## Student comments:
 
+## Luna's Response
+Every 3 or 4 videos I come across on tiktok, theyre AI generated, so I thought this article was interesting because it really breaks down AI video generation. It also helped me understand why AI videos are suddenly everywhere. With Sora and Veo3 being easily accessible, anyone can create a high quality AI video. The articles highlight about AI's energy consunption also really stood out to me. When you consider platforms like Tiktok, instagram, and youtube, the environmental impact of these AI videos becomes a bigger issue than I expected. 
